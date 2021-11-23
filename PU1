@@ -1,10 +1,10 @@
 #include<stdio.h>
 int main()
 {
-double a, b, reizinājums
-printf("Lūdzu ievadi skaitļus 400000 un 100000: ")
+double a, b, reizinajums;
+printf("Lūdzu ievadi skaitļus 400000 un 100000: ");
 scanf("%lf %lf", &a, &b);
-reizinājums = a * b;
-printf("reizinājums = %.0lf", reizinājums);
-return 0:
+reizinajums = a * b;
+printf("reizinajums = %.0lf", reizinajums);
+return 0;
 }
