@@ -2,7 +2,7 @@
 int main()
 {
 double a, b, reizinajums;
-printf("Lūdzu ievadi skaitļus 400000 un 100000: ");
+printf("Lūdzu ievadiet skaitļus 400000 un 100000: ");
 scanf("%lf %lf", &a, &b);
 reizinajums = a * b;
 printf("reizinajums = %.0lf", reizinajums);
